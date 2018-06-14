@@ -1,2 +1,2 @@
 # sample-code
-My Project is of creating a webpage for CSKteam
+This is project is just sample to test git
